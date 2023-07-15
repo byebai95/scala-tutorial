@@ -1,6 +1,6 @@
 package example
 
-object demo_06 {
+object x06_While {
   def main(args: Array[String]): Unit = {
     var a = 10
     // 死循环

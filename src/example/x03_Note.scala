@@ -1,6 +1,6 @@
 package example
 
-object demo_03 {
+object x03_Note {
 
   def main(args: Array[String]):Unit={
     /**

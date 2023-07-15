@@ -1,6 +1,6 @@
 package example
 
-object demo_02 {
+object x02_OverLoad {
 
   def myMethod(): Unit = {
     println("method Test")

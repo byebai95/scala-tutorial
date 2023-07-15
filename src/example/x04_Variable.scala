@@ -1,6 +1,6 @@
 package example
 
-object demo_04 {
+object x04_Variable {
 
   def main(args: Array[String]): Unit = {
     // 变量定义 ， var 声明变量， val 声明常量
